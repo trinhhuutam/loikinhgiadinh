@@ -1,0 +1,3313 @@
+{
+  "product": "Lời kinh trong bữa ăn gia đình",
+  "version": 1,
+  "releaseDate": "2024-01-01T00:00:00.000Z",
+  "demo": true,
+  "section": [
+    {
+      "id": 0,
+      "title": "Trang bìa",
+      "page": [
+        1
+      ],
+      "url": [
+        "Loi kinh bua an gia dinh_page-0001.jpg"
+      ],
+      "public_id": [
+        "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0001_fb033w"
+      ],
+      "asset_ids": [
+        "1440f8932a0d528bd4d4d33f4634773b"
+      ],
+      "data": [
+        {
+          "asset_id": "1440f8932a0d528bd4d4d33f4634773b",
+          "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0001_fb033w",
+          "folder": "loi-kinh-gia-dinh-2",
+          "filename": "Loi_kinh_bua_an_gia_dinh_page-0001_fb033w",
+          "format": "jpg",
+          "version": 1712706026,
+          "resource_type": "image",
+          "type": "upload",
+          "created_at": "2024-04-09T23:40:26+00:00",
+          "uploaded_at": "2024-04-09T23:40:26+00:00",
+          "bytes": 613429,
+          "backup_bytes": 0,
+          "width": 1221,
+          "height": 1973,
+          "aspect_ratio": 0.61885,
+          "pixels": 2409033,
+          "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706026/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0001_fb033w.jpg",
+          "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706026/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0001_fb033w.jpg",
+          "status": "active",
+          "access_mode": "public",
+          "access_control": null,
+          "etag": "f25aae7c7a91fa70355a04d03dde22ad",
+          "created_by": {
+            "access_key": "331443986822223"
+          },
+          "uploaded_by": {
+            "access_key": "331443986822223"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Lời giới thiệu",
+      "page": [
+        3
+      ],
+      "url": [
+        "Loi kinh bua an gia dinh_page-0003.jpg"
+      ],
+      "public_id": [
+        "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0003_xfavop"
+      ],
+      "asset_ids": [
+        "e12c33acde93c316925ba4fd4d11db64"
+      ],
+      "data": [
+        {
+          "asset_id": "e12c33acde93c316925ba4fd4d11db64",
+          "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0003_xfavop",
+          "folder": "loi-kinh-gia-dinh-2",
+          "filename": "Loi_kinh_bua_an_gia_dinh_page-0003_xfavop",
+          "format": "jpg",
+          "version": 1712706032,
+          "resource_type": "image",
+          "type": "upload",
+          "created_at": "2024-04-09T23:40:32+00:00",
+          "uploaded_at": "2024-04-09T23:40:32+00:00",
+          "bytes": 1177312,
+          "backup_bytes": 0,
+          "width": 1221,
+          "height": 1973,
+          "aspect_ratio": 0.61885,
+          "pixels": 2409033,
+          "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706032/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0003_xfavop.jpg",
+          "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706032/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0003_xfavop.jpg",
+          "status": "active",
+          "access_mode": "public",
+          "access_control": null,
+          "etag": "a65bc6c6463fa60708de971b8ddeec46",
+          "created_by": {
+            "access_key": "331443986822223"
+          },
+          "uploaded_by": {
+            "access_key": "331443986822223"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Lời mở đầu",
+      "page": [
+        5,
+        6
+      ],
+      "url": [
+        "Loi kinh bua an gia dinh_page-0005.jpg",
+        "Loi kinh bua an gia dinh_page-0006.jpg"
+      ],
+      "public_id": [
+        "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0005_tb6pq2",
+        "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0006_n089rm"
+      ],
+      "asset_ids": [
+        "17cffe213c610218bf6b6d56ebb7bd90"
+      ],
+      "data": [
+        {
+          "asset_id": "ad50c41d7f05a232786fbc74e84c3fc0",
+          "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0005_tb6pq2",
+          "folder": "loi-kinh-gia-dinh-2",
+          "filename": "Loi_kinh_bua_an_gia_dinh_page-0005_tb6pq2",
+          "format": "jpg",
+          "version": 1712706032,
+          "resource_type": "image",
+          "type": "upload",
+          "created_at": "2024-04-09T23:40:32+00:00",
+          "uploaded_at": "2024-04-09T23:40:32+00:00",
+          "bytes": 1062875,
+          "backup_bytes": 0,
+          "width": 1221,
+          "height": 1973,
+          "aspect_ratio": 0.61885,
+          "pixels": 2409033,
+          "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706032/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0005_tb6pq2.jpg",
+          "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706032/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0005_tb6pq2.jpg",
+          "status": "active",
+          "access_mode": "public",
+          "access_control": null,
+          "etag": "a2c92f351940982b18df0f530d9c6c5a",
+          "created_by": {
+            "access_key": "331443986822223"
+          },
+          "uploaded_by": {
+            "access_key": "331443986822223"
+          }
+        },
+        {
+          "asset_id": "17cffe213c610218bf6b6d56ebb7bd90",
+          "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0006_n089rm",
+          "folder": "loi-kinh-gia-dinh-2",
+          "filename": "Loi_kinh_bua_an_gia_dinh_page-0006_n089rm",
+          "format": "jpg",
+          "version": 1712706030,
+          "resource_type": "image",
+          "type": "upload",
+          "created_at": "2024-04-09T23:40:30+00:00",
+          "uploaded_at": "2024-04-09T23:40:30+00:00",
+          "bytes": 1214143,
+          "backup_bytes": 0,
+          "width": 1221,
+          "height": 1973,
+          "aspect_ratio": 0.61885,
+          "pixels": 2409033,
+          "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706030/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0006_n089rm.jpg",
+          "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706030/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0006_n089rm.jpg",
+          "status": "active",
+          "access_mode": "public",
+          "access_control": null,
+          "etag": "c81ca8451b09f25e0fdc6936c6f8facb",
+          "created_by": {
+            "access_key": "331443986822223"
+          },
+          "uploaded_by": {
+            "access_key": "331443986822223"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Phần I: Các lời kinh bữa ăn hàng ngày",
+      "page": [
+        7
+      ],
+      "url": [
+        "Loi kinh bua an gia dinh_page-0007.jpg"
+      ],
+      "chap": [
+        {
+          "id_number": 1,
+          "title": "Lời kinh số 1",
+          "page": [
+            8
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0008.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0008_segbir"
+          ],
+          "asset_ids": [
+            "1b5f1055bff4d979c92c2b007c2101e4"
+          ],
+          "data": [
+            {
+              "asset_id": "1b5f1055bff4d979c92c2b007c2101e4",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0008_segbir",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0008_segbir",
+              "format": "jpg",
+              "version": 1712706031,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:31+00:00",
+              "uploaded_at": "2024-04-09T23:40:31+00:00",
+              "bytes": 981975,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706031/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0008_segbir.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706031/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0008_segbir.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "e85cabff7d7257d281a7f5b17b89471d",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 300
+        },
+        {
+          "id_number": 2,
+          "title": "Lời kinh số 2",
+          "page": [
+            9
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0009.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0009_krkcwj"
+          ],
+          "asset_ids": [
+            "5588e31a2073a1bbd145f9c23f2c2a9c"
+          ],
+          "data": [
+            {
+              "asset_id": "5588e31a2073a1bbd145f9c23f2c2a9c",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0009_krkcwj",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0009_krkcwj",
+              "format": "jpg",
+              "version": 1712706031,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:31+00:00",
+              "uploaded_at": "2024-04-09T23:40:31+00:00",
+              "bytes": 1019635,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706031/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0009_krkcwj.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706031/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0009_krkcwj.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "21e6e4c0b0664cba4a9ef0ddf112fdd6",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 301
+        },
+        {
+          "id_number": 3,
+          "title": "Lời kinh số 3",
+          "page": [
+            10
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0010.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0010_ktd2mt"
+          ],
+          "asset_ids": [
+            "ebdd6056181010fae541b6b7bb43fd31"
+          ],
+          "data": [
+            {
+              "asset_id": "ebdd6056181010fae541b6b7bb43fd31",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0010_ktd2mt",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0010_ktd2mt",
+              "format": "jpg",
+              "version": 1712706034,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:34+00:00",
+              "uploaded_at": "2024-04-09T23:40:34+00:00",
+              "bytes": 1062659,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0010_ktd2mt.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0010_ktd2mt.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "4c68da48ffbcb4ceb6e361d7376a5b79",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 302
+        },
+        {
+          "id_number": 4,
+          "title": "Lời kinh số 4",
+          "page": [
+            11
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0011.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0011_ykaqzi"
+          ],
+          "asset_ids": [
+            "44b342461c93ac5baedae47adbf595a1"
+          ],
+          "data": [
+            {
+              "asset_id": "44b342461c93ac5baedae47adbf595a1",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0011_ykaqzi",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0011_ykaqzi",
+              "format": "jpg",
+              "version": 1712706031,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:31+00:00",
+              "uploaded_at": "2024-04-09T23:40:31+00:00",
+              "bytes": 772398,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706031/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0011_ykaqzi.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706031/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0011_ykaqzi.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "d6f8743f1031d995b6eda77a9770cbdd",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 303
+        },
+        {
+          "id_number": 5,
+          "title": "Lời kinh số 5",
+          "page": [
+            12
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0012.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0012_mjge6h"
+          ],
+          "asset_ids": [
+            "6acc31e0f316afbf6e3715cc6dbff9cb"
+          ],
+          "data": [
+            {
+              "asset_id": "6acc31e0f316afbf6e3715cc6dbff9cb",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0012_mjge6h",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0012_mjge6h",
+              "format": "jpg",
+              "version": 1712706032,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:32+00:00",
+              "uploaded_at": "2024-04-09T23:40:32+00:00",
+              "bytes": 869623,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706032/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0012_mjge6h.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706032/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0012_mjge6h.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "e68c57a3307e70b048f5be2406c66c4f",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 304
+        },
+        {
+          "id_number": 6,
+          "title": "Lời kinh số 6",
+          "page": [
+            13
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0013.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0013_prbztw"
+          ],
+          "asset_ids": [
+            "7fe068f925e1f512e4606d8e9c6f7693"
+          ],
+          "data": [
+            {
+              "asset_id": "7fe068f925e1f512e4606d8e9c6f7693",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0013_prbztw",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0013_prbztw",
+              "format": "jpg",
+              "version": 1712706033,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:33+00:00",
+              "uploaded_at": "2024-04-09T23:40:33+00:00",
+              "bytes": 876217,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706033/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0013_prbztw.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706033/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0013_prbztw.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "1a16173876b30c052c1d5d169a65c8c3",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 305
+        },
+        {
+          "id_number": 7,
+          "title": "Lời kinh số 7",
+          "page": [
+            14
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0014.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0014_hkg6a8"
+          ],
+          "asset_ids": [
+            "bd5fe8fcaf50c6c6ebb2119b1a472779"
+          ],
+          "data": [
+            {
+              "asset_id": "bd5fe8fcaf50c6c6ebb2119b1a472779",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0014_hkg6a8",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0014_hkg6a8",
+              "format": "jpg",
+              "version": 1712706033,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:33+00:00",
+              "uploaded_at": "2024-04-09T23:40:33+00:00",
+              "bytes": 964661,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706033/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0014_hkg6a8.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706033/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0014_hkg6a8.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "79001494351c93c215bdbb40fe08eef1",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 306
+        },
+        {
+          "id_number": 8,
+          "title": "Lời kinh số 8",
+          "page": [
+            15
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0015.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0015_vlo8j0"
+          ],
+          "asset_ids": [
+            "6ed71c7ab5ac283d26aa7e75946e7061"
+          ],
+          "data": [
+            {
+              "asset_id": "6ed71c7ab5ac283d26aa7e75946e7061",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0015_vlo8j0",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0015_vlo8j0",
+              "format": "jpg",
+              "version": 1712706029,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:29+00:00",
+              "uploaded_at": "2024-04-09T23:40:29+00:00",
+              "bytes": 801125,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706029/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0015_vlo8j0.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706029/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0015_vlo8j0.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "d5c715339cdfd6dd57f73cda257b7df0",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 307
+        },
+        {
+          "id_number": 9,
+          "title": "Lời kinh số 9",
+          "page": [
+            16
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0016.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0016_nkunzv"
+          ],
+          "asset_ids": [
+            "1481cfcd07f95cf624fee2afecd2b321"
+          ],
+          "data": [
+            {
+              "asset_id": "1481cfcd07f95cf624fee2afecd2b321",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0016_nkunzv",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0016_nkunzv",
+              "format": "jpg",
+              "version": 1712706034,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:34+00:00",
+              "uploaded_at": "2024-04-09T23:40:34+00:00",
+              "bytes": 1002294,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0016_nkunzv.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0016_nkunzv.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "e754f03cbf10d428f49a4c104c7a6674",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 308
+        },
+        {
+          "id_number": 10,
+          "title": "Lời kinh số 10",
+          "page": [
+            17
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0017.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0017_a1kqzc"
+          ],
+          "asset_ids": [
+            "b9699cba50dc35673933c915f972f23c"
+          ],
+          "data": [
+            {
+              "asset_id": "b9699cba50dc35673933c915f972f23c",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0017_a1kqzc",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0017_a1kqzc",
+              "format": "jpg",
+              "version": 1712706030,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:30+00:00",
+              "uploaded_at": "2024-04-09T23:40:30+00:00",
+              "bytes": 765223,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706030/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0017_a1kqzc.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706030/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0017_a1kqzc.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "2d243503e69c5bc2dbbb6abe4574757f",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 309
+        },
+        {
+          "id_number": 11,
+          "title": "Lời kinh số 11",
+          "page": [
+            18
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0018.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0018_vcexk5"
+          ],
+          "asset_ids": [
+            "1e5d40c55b0519c7b6cff706db4261a0"
+          ],
+          "data": [
+            {
+              "asset_id": "1e5d40c55b0519c7b6cff706db4261a0",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0018_vcexk5",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0018_vcexk5",
+              "format": "jpg",
+              "version": 1712706031,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:31+00:00",
+              "uploaded_at": "2024-04-09T23:40:31+00:00",
+              "bytes": 814634,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706031/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0018_vcexk5.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706031/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0018_vcexk5.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "51fbe49fe021565c3a28657458f58b39",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 310
+        },
+        {
+          "id_number": 12,
+          "title": "Lời kinh số 12",
+          "page": [
+            19
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0019.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0019_uvxxgx"
+          ],
+          "asset_ids": [
+            "6378724116d84b310bb41928c545e95a"
+          ],
+          "data": [
+            {
+              "asset_id": "6378724116d84b310bb41928c545e95a",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0019_uvxxgx",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0019_uvxxgx",
+              "format": "jpg",
+              "version": 1712706033,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:33+00:00",
+              "uploaded_at": "2024-04-09T23:40:33+00:00",
+              "bytes": 1066407,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706033/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0019_uvxxgx.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706033/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0019_uvxxgx.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "8ee0d6315af6ca5efa503b6eea10dd6e",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 311
+        },
+        {
+          "id_number": 13,
+          "title": "Lời kinh số 13",
+          "page": [
+            20
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0020.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0020_ngqgwh"
+          ],
+          "asset_ids": [
+            "c0079773d6a9f756f32c7c6143eff958"
+          ],
+          "data": [
+            {
+              "asset_id": "c0079773d6a9f756f32c7c6143eff958",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0020_ngqgwh",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0020_ngqgwh",
+              "format": "jpg",
+              "version": 1712706032,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:32+00:00",
+              "uploaded_at": "2024-04-09T23:40:32+00:00",
+              "bytes": 951028,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706032/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0020_ngqgwh.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706032/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0020_ngqgwh.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "b181dc50514d08aed361d7e413115830",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 312
+        },
+        {
+          "id_number": 14,
+          "title": "Lời kinh số 14",
+          "page": [
+            21
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0021.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0021_ffeq7s"
+          ],
+          "asset_ids": [
+            "f8b519db07d81c07d152945e1530d64d"
+          ],
+          "data": [
+            {
+              "asset_id": "f8b519db07d81c07d152945e1530d64d",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0021_ffeq7s",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0021_ffeq7s",
+              "format": "jpg",
+              "version": 1712706034,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:34+00:00",
+              "uploaded_at": "2024-04-09T23:40:34+00:00",
+              "bytes": 1053541,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0021_ffeq7s.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0021_ffeq7s.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "72c5e12a56c0e828b1a5dd7e2ca8e73c",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 313
+        },
+        {
+          "id_number": 15,
+          "title": "Lời kinh số 15",
+          "page": [
+            22
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0022.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0022_ev9cl0"
+          ],
+          "asset_ids": [
+            "b4c03465d6b9743c3a4ac024203acdfa"
+          ],
+          "data": [
+            {
+              "asset_id": "b4c03465d6b9743c3a4ac024203acdfa",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0022_ev9cl0",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0022_ev9cl0",
+              "format": "jpg",
+              "version": 1712706033,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:33+00:00",
+              "uploaded_at": "2024-04-09T23:40:33+00:00",
+              "bytes": 913130,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706033/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0022_ev9cl0.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706033/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0022_ev9cl0.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "e9e94fbff0c53e0d5142e16b81cb953e",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 314
+        },
+        {
+          "id_number": 16,
+          "title": "Lời kinh số 16",
+          "page": [
+            23
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0023.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0023_z7botl"
+          ],
+          "asset_ids": [
+            "ced6ff058c24de50d73661c2fc63e9bf"
+          ],
+          "data": [
+            {
+              "asset_id": "ced6ff058c24de50d73661c2fc63e9bf",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0023_z7botl",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0023_z7botl",
+              "format": "jpg",
+              "version": 1712706033,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:33+00:00",
+              "uploaded_at": "2024-04-09T23:40:33+00:00",
+              "bytes": 1007463,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706033/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0023_z7botl.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706033/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0023_z7botl.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "3eb676270bff00ea60da7ad998825773",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 315
+        },
+        {
+          "id_number": 17,
+          "title": "Lời kinh số 17",
+          "page": [
+            24
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0024.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0024_sz21cs"
+          ],
+          "asset_ids": [
+            "9b3fcbc06abd1e1267f2060f46be1563"
+          ],
+          "data": [
+            {
+              "asset_id": "9b3fcbc06abd1e1267f2060f46be1563",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0024_sz21cs",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0024_sz21cs",
+              "format": "jpg",
+              "version": 1712706031,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:31+00:00",
+              "uploaded_at": "2024-04-09T23:40:31+00:00",
+              "bytes": 851552,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706031/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0024_sz21cs.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706031/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0024_sz21cs.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "6b358b6fefd86423e2532fa8b233de08",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 316
+        },
+        {
+          "id_number": 18,
+          "title": "Lời kinh số 18",
+          "page": [
+            25
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0025.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0025_zjucoz"
+          ],
+          "asset_ids": [
+            "9e3003705d06243fbab229f98823bf48"
+          ],
+          "data": [
+            {
+              "asset_id": "9e3003705d06243fbab229f98823bf48",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0025_zjucoz",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0025_zjucoz",
+              "format": "jpg",
+              "version": 1712706029,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:29+00:00",
+              "uploaded_at": "2024-04-09T23:40:29+00:00",
+              "bytes": 775548,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706029/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0025_zjucoz.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706029/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0025_zjucoz.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "a2b1dc6c16a82c4fdbbcf70579a4deeb",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 317
+        },
+        {
+          "id_number": 19,
+          "title": "Lời kinh số 19",
+          "page": [
+            26
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0026.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0026_tbfaru"
+          ],
+          "asset_ids": [
+            "64e5de1a7ba90e271f87fe33e3a56760"
+          ],
+          "data": [
+            {
+              "asset_id": "64e5de1a7ba90e271f87fe33e3a56760",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0026_tbfaru",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0026_tbfaru",
+              "format": "jpg",
+              "version": 1712706034,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:34+00:00",
+              "uploaded_at": "2024-04-09T23:40:34+00:00",
+              "bytes": 1073938,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0026_tbfaru.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0026_tbfaru.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "3874222540aa66c198f90225289d6e70",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 318
+        },
+        {
+          "id_number": 20,
+          "title": "Lời kinh số 20",
+          "page": [
+            27
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0027.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0027_uyr4tt"
+          ],
+          "asset_ids": [
+            "21cb06be27bc15a17e947b4520888878"
+          ],
+          "data": [
+            {
+              "asset_id": "21cb06be27bc15a17e947b4520888878",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0027_uyr4tt",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0027_uyr4tt",
+              "format": "jpg",
+              "version": 1712706032,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:32+00:00",
+              "uploaded_at": "2024-04-09T23:40:32+00:00",
+              "bytes": 953237,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706032/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0027_uyr4tt.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706032/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0027_uyr4tt.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "e4f4588acf72afbb6453c42f4b6561a0",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 319
+        },
+        {
+          "id_number": 21,
+          "title": "Lời kinh số 21",
+          "page": [
+            28
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0028.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0028_q1xp6q"
+          ],
+          "asset_ids": [
+            "af8387c8cf839e6a276a0d1f7debdf7d"
+          ],
+          "data": [
+            {
+              "asset_id": "af8387c8cf839e6a276a0d1f7debdf7d",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0028_q1xp6q",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0028_q1xp6q",
+              "format": "jpg",
+              "version": 1712706035,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:35+00:00",
+              "uploaded_at": "2024-04-09T23:40:35+00:00",
+              "bytes": 1155657,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706035/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0028_q1xp6q.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706035/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0028_q1xp6q.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "02ac697b92018135815ad1baec70ea8e",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 320
+        },
+        {
+          "id_number": 22,
+          "title": "Lời kinh số 22",
+          "page": [
+            29
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0029.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0029_hem0oe"
+          ],
+          "asset_ids": [
+            "4466d69102ecb5f03ed05f5f0e930383"
+          ],
+          "data": [
+            {
+              "asset_id": "4466d69102ecb5f03ed05f5f0e930383",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0029_hem0oe",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0029_hem0oe",
+              "format": "jpg",
+              "version": 1712706035,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:35+00:00",
+              "uploaded_at": "2024-04-09T23:40:35+00:00",
+              "bytes": 1258889,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706035/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0029_hem0oe.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706035/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0029_hem0oe.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "ffe4ea34201bf20f2d888ada104b2fc0",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 321
+        },
+        {
+          "id_number": 23,
+          "title": "Lời kinh số 23",
+          "page": [
+            30
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0030.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0030_t36j1y"
+          ],
+          "asset_ids": [
+            "ae585188ead6fe4cd5c0a2cf5ae8053e"
+          ],
+          "data": [
+            {
+              "asset_id": "ae585188ead6fe4cd5c0a2cf5ae8053e",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0030_t36j1y",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0030_t36j1y",
+              "format": "jpg",
+              "version": 1712706032,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:32+00:00",
+              "uploaded_at": "2024-04-09T23:40:32+00:00",
+              "bytes": 906974,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706032/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0030_t36j1y.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706032/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0030_t36j1y.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "07d9a8e4b9d0d26fbeabba59f6a96f08",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 322
+        },
+        {
+          "id_number": 24,
+          "title": "Lời kinh số 24",
+          "page": [
+            31
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0031.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0031_grr4vy"
+          ],
+          "asset_ids": [
+            "bc600c0937bb87b45658fc203f42209f"
+          ],
+          "data": [
+            {
+              "asset_id": "bc600c0937bb87b45658fc203f42209f",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0031_grr4vy",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0031_grr4vy",
+              "format": "jpg",
+              "version": 1712706033,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:33+00:00",
+              "uploaded_at": "2024-04-09T23:40:33+00:00",
+              "bytes": 959127,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706033/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0031_grr4vy.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706033/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0031_grr4vy.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "2ce3a973222c70dbd8ff23efef820747",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 323
+        },
+        {
+          "id_number": 25,
+          "title": "Lời kinh số 25",
+          "page": [
+            32
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0032.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0032_ilcpel"
+          ],
+          "asset_ids": [
+            "16c2a620f20c0166633820fa12cc8bf3"
+          ],
+          "data": [
+            {
+              "asset_id": "16c2a620f20c0166633820fa12cc8bf3",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0032_ilcpel",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0032_ilcpel",
+              "format": "jpg",
+              "version": 1712706035,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:35+00:00",
+              "uploaded_at": "2024-04-09T23:40:35+00:00",
+              "bytes": 1514893,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706035/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0032_ilcpel.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706035/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0032_ilcpel.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "9935700415fd2f0f6eb767d8e6d53dc9",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 324
+        },
+        {
+          "id_number": 26,
+          "title": "Lời kinh số 26",
+          "page": [
+            33
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0033.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0033_gfleyf"
+          ],
+          "asset_ids": [
+            "0ed4195d162c74d8b91babfa4707a93e"
+          ],
+          "data": [
+            {
+              "asset_id": "0ed4195d162c74d8b91babfa4707a93e",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0033_gfleyf",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0033_gfleyf",
+              "format": "jpg",
+              "version": 1712706034,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:34+00:00",
+              "uploaded_at": "2024-04-09T23:40:34+00:00",
+              "bytes": 1540465,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0033_gfleyf.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0033_gfleyf.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "59341266493f4bba1963f368b4a4b2ab",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 325
+        },
+        {
+          "id_number": 27,
+          "title": "Lời kinh số 27",
+          "page": [
+            34
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0034.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0034_oictw0"
+          ],
+          "asset_ids": [
+            "832157b0e64a04315ed6ba1528f5b832"
+          ],
+          "data": [
+            {
+              "asset_id": "832157b0e64a04315ed6ba1528f5b832",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0034_oictw0",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0034_oictw0",
+              "format": "jpg",
+              "version": 1712706036,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:36+00:00",
+              "uploaded_at": "2024-04-09T23:40:36+00:00",
+              "bytes": 1378034,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706036/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0034_oictw0.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706036/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0034_oictw0.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "ad09f5185e279c150b1e6b70c9867169",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 326
+        },
+        {
+          "id_number": 28,
+          "title": "Lời kinh số 28",
+          "page": [
+            35
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0035.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0035_scsd8q"
+          ],
+          "asset_ids": [
+            "0182b6bf1ee374588ec2f83f74692fec"
+          ],
+          "data": [
+            {
+              "asset_id": "0182b6bf1ee374588ec2f83f74692fec",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0035_scsd8q",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0035_scsd8q",
+              "format": "jpg",
+              "version": 1712706033,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:33+00:00",
+              "uploaded_at": "2024-04-09T23:40:33+00:00",
+              "bytes": 1259166,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706033/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0035_scsd8q.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706033/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0035_scsd8q.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "fedaee35bff2e5cb520733b213bc4f31",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 327
+        },
+        {
+          "id_number": 29,
+          "title": "Lời kinh số 29",
+          "page": [
+            36
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0036.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0036_myb5ph"
+          ],
+          "asset_ids": [
+            "df70190f30434d9671bac33a8f805204"
+          ],
+          "data": [
+            {
+              "asset_id": "df70190f30434d9671bac33a8f805204",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0036_myb5ph",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0036_myb5ph",
+              "format": "jpg",
+              "version": 1712706034,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:34+00:00",
+              "uploaded_at": "2024-04-09T23:40:34+00:00",
+              "bytes": 1150026,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0036_myb5ph.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0036_myb5ph.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "952486681fa3315ee0b121d0d73de866",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 328
+        },
+        {
+          "id_number": 30,
+          "title": "Lời kinh số 30",
+          "page": [
+            37
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0037.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0037_elzizn"
+          ],
+          "asset_ids": [
+            "28d965c1f8aa4a45f533f6aa991cddba"
+          ],
+          "data": [
+            {
+              "asset_id": "28d965c1f8aa4a45f533f6aa991cddba",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0037_elzizn",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0037_elzizn",
+              "format": "jpg",
+              "version": 1712706036,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:36+00:00",
+              "uploaded_at": "2024-04-09T23:40:36+00:00",
+              "bytes": 1208306,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706036/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0037_elzizn.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706036/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0037_elzizn.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "7d3934fb7731062a4c9f10db1e1bfc05",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 329
+        },
+        {
+          "id_number": 31,
+          "title": "Lời kinh số 31",
+          "page": [
+            38
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0038.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0038_lttn3v"
+          ],
+          "asset_ids": [
+            "822beec6c2a3b732e37af5d503d1997e"
+          ],
+          "data": [
+            {
+              "asset_id": "822beec6c2a3b732e37af5d503d1997e",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0038_lttn3v",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0038_lttn3v",
+              "format": "jpg",
+              "version": 1712706034,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:34+00:00",
+              "uploaded_at": "2024-04-09T23:40:34+00:00",
+              "bytes": 1327004,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0038_lttn3v.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0038_lttn3v.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "f53cf11fe86dcaca1713e19316f19abb",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 330
+        },
+        {
+          "id_number": 32,
+          "title": "Lời kinh số 32",
+          "page": [
+            39
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0039.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0039_dkdm0s"
+          ],
+          "asset_ids": [
+            "4d0352c45478f1804bbcb7cf9c40e080"
+          ],
+          "data": [
+            {
+              "asset_id": "4d0352c45478f1804bbcb7cf9c40e080",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0039_dkdm0s",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0039_dkdm0s",
+              "format": "jpg",
+              "version": 1712706036,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:36+00:00",
+              "uploaded_at": "2024-04-09T23:40:36+00:00",
+              "bytes": 1332388,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706036/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0039_dkdm0s.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706036/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0039_dkdm0s.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "ff93cfa1cba622b32f7ce56935fb3c1c",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 331
+        },
+        {
+          "id_number": 33,
+          "title": "Lời kinh số 33",
+          "page": [
+            40
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0040.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0040_e38ldv"
+          ],
+          "asset_ids": [
+            "05ec3928fc255d3aa86f8c2d336130d8"
+          ],
+          "data": [
+            {
+              "asset_id": "05ec3928fc255d3aa86f8c2d336130d8",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0040_e38ldv",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0040_e38ldv",
+              "format": "jpg",
+              "version": 1712706030,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:30+00:00",
+              "uploaded_at": "2024-04-09T23:40:30+00:00",
+              "bytes": 759369,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706030/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0040_e38ldv.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706030/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0040_e38ldv.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "db14848b29f10394ea725f8c3b5c7e7f",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 332
+        },
+        {
+          "id_number": 34,
+          "title": "Lời kinh số 34",
+          "page": [
+            41
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0041.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0041_outpxm"
+          ],
+          "asset_ids": [
+            "a98557ca9fac528516cddc3b6d28e38e"
+          ],
+          "data": [
+            {
+              "asset_id": "a98557ca9fac528516cddc3b6d28e38e",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0041_outpxm",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0041_outpxm",
+              "format": "jpg",
+              "version": 1712706033,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:33+00:00",
+              "uploaded_at": "2024-04-09T23:40:33+00:00",
+              "bytes": 908943,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706033/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0041_outpxm.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706033/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0041_outpxm.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "9d43f5c312b68b2b87cf360666673990",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 333
+        },
+        {
+          "id_number": 35,
+          "title": "Lời kinh số 35",
+          "page": [
+            42
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0042.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0042_irbkfj"
+          ],
+          "asset_ids": [
+            "85b49cac48061c84d5d748685f3d687a"
+          ],
+          "data": [
+            {
+              "asset_id": "85b49cac48061c84d5d748685f3d687a",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0042_irbkfj",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0042_irbkfj",
+              "format": "jpg",
+              "version": 1712706035,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:35+00:00",
+              "uploaded_at": "2024-04-09T23:40:35+00:00",
+              "bytes": 1192288,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706035/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0042_irbkfj.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706035/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0042_irbkfj.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "d89a78e21260ab6b552c131819c7f678",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 334
+        },
+        {
+          "id_number": 36,
+          "title": "Lời kinh số 36",
+          "page": [
+            43
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0043.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0043_d7ccza"
+          ],
+          "asset_ids": [
+            "8768639e1a01b65a3b29e88e88bf31ca"
+          ],
+          "data": [
+            {
+              "asset_id": "8768639e1a01b65a3b29e88e88bf31ca",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0043_d7ccza",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0043_d7ccza",
+              "format": "jpg",
+              "version": 1712706034,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:34+00:00",
+              "uploaded_at": "2024-04-09T23:40:34+00:00",
+              "bytes": 1183872,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0043_d7ccza.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0043_d7ccza.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "50c0503b0e64be908fcb0674d41c8ae8",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 335
+        },
+        {
+          "id_number": 37,
+          "title": "Lời kinh số 37",
+          "page": [
+            44
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0044.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0044_ci07vg"
+          ],
+          "asset_ids": [
+            "800f849142a672325424e74ba6cec412"
+          ],
+          "data": [
+            {
+              "asset_id": "800f849142a672325424e74ba6cec412",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0044_ci07vg",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0044_ci07vg",
+              "format": "jpg",
+              "version": 1712706034,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:34+00:00",
+              "uploaded_at": "2024-04-09T23:40:34+00:00",
+              "bytes": 918012,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0044_ci07vg.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0044_ci07vg.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "f15e7cc17539c92a2f049bf72058444a",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 336
+        },
+        {
+          "id_number": 38,
+          "title": "Lời kinh số 38",
+          "page": [
+            45
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0045.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0045_igvimn"
+          ],
+          "asset_ids": [
+            "f9f984eb46ce5392d67463862f3a8040"
+          ],
+          "data": [
+            {
+              "asset_id": "f9f984eb46ce5392d67463862f3a8040",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0045_igvimn",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0045_igvimn",
+              "format": "jpg",
+              "version": 1712706036,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:36+00:00",
+              "uploaded_at": "2024-04-09T23:40:36+00:00",
+              "bytes": 1009867,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706036/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0045_igvimn.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706036/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0045_igvimn.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "88f2f50579cf0c53d626d6b582836741",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 337
+        },
+        {
+          "id_number": 39,
+          "title": "Lời kinh số 39",
+          "page": [
+            46
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0046.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0046_vzfef1"
+          ],
+          "asset_ids": [
+            "04e4925ec9b97fe20433baecdfd7dc36"
+          ],
+          "data": [
+            {
+              "asset_id": "04e4925ec9b97fe20433baecdfd7dc36",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0046_vzfef1",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0046_vzfef1",
+              "format": "jpg",
+              "version": 1712706035,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:35+00:00",
+              "uploaded_at": "2024-04-09T23:40:35+00:00",
+              "bytes": 977745,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706035/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0046_vzfef1.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706035/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0046_vzfef1.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "f7a30b2137da6f32195e140bb68c829a",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 338
+        },
+        {
+          "id_number": 40,
+          "title": "Lời kinh số 40",
+          "page": [
+            47
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0047.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0047_ulsmoj"
+          ],
+          "asset_ids": [
+            "5ffb75d0919f123ee545d659e5de6f07"
+          ],
+          "data": [
+            {
+              "asset_id": "5ffb75d0919f123ee545d659e5de6f07",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0047_ulsmoj",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0047_ulsmoj",
+              "format": "jpg",
+              "version": 1712706032,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:32+00:00",
+              "uploaded_at": "2024-04-09T23:40:32+00:00",
+              "bytes": 951958,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706032/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0047_ulsmoj.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706032/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0047_ulsmoj.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "40a203b4cd1b614ff17edb0a7e05d640",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 339
+        },
+        {
+          "id_number": 41,
+          "title": "Lời kinh số 41",
+          "page": [
+            48
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0048.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0048_w8syzr"
+          ],
+          "asset_ids": [
+            "fe6136309426c829dd6d682d2065ca97"
+          ],
+          "data": [
+            {
+              "asset_id": "fe6136309426c829dd6d682d2065ca97",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0048_w8syzr",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0048_w8syzr",
+              "format": "jpg",
+              "version": 1712706036,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:36+00:00",
+              "uploaded_at": "2024-04-09T23:40:36+00:00",
+              "bytes": 1380986,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706036/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0048_w8syzr.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706036/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0048_w8syzr.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "fc2f496460b8f1f4c6882280ff7dfdea",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 340
+        },
+        {
+          "id_number": 42,
+          "title": "Lời kinh số 42",
+          "page": [
+            49
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0049.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0049_puqsnt"
+          ],
+          "asset_ids": [
+            "ec2f19d476356c01eabf1437f5912622"
+          ],
+          "data": [
+            {
+              "asset_id": "ec2f19d476356c01eabf1437f5912622",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0049_puqsnt",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0049_puqsnt",
+              "format": "jpg",
+              "version": 1712706036,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:36+00:00",
+              "uploaded_at": "2024-04-09T23:40:36+00:00",
+              "bytes": 1373347,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706036/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0049_puqsnt.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706036/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0049_puqsnt.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "4b8766fb8f24a54ef4dc6ecbcc67e7e4",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 341
+        },
+        {
+          "id_number": 43,
+          "title": "Lời kinh số 43",
+          "page": [
+            50
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0050.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0050_zqj8hy"
+          ],
+          "asset_ids": [
+            "252d6d4cdad87edd165e42246a342723"
+          ],
+          "data": [
+            {
+              "asset_id": "252d6d4cdad87edd165e42246a342723",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0050_zqj8hy",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0050_zqj8hy",
+              "format": "jpg",
+              "version": 1712706034,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:34+00:00",
+              "uploaded_at": "2024-04-09T23:40:34+00:00",
+              "bytes": 995544,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0050_zqj8hy.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0050_zqj8hy.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "dfbbf0c2db024569a9463aa0f899daaa",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 342
+        },
+        {
+          "id_number": 44,
+          "title": "Lời kinh số 44",
+          "page": [
+            51
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0051.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0051_x3zftv"
+          ],
+          "asset_ids": [
+            "fc4862904f6d0f5060c4f83525351fd4"
+          ],
+          "data": [
+            {
+              "asset_id": "fc4862904f6d0f5060c4f83525351fd4",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0051_x3zftv",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0051_x3zftv",
+              "format": "jpg",
+              "version": 1712706032,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:32+00:00",
+              "uploaded_at": "2024-04-09T23:40:32+00:00",
+              "bytes": 980238,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706032/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0051_x3zftv.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706032/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0051_x3zftv.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "f09140de372718101806e241a2b26531",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 343
+        },
+        {
+          "id_number": 45,
+          "title": "Lời kinh số 45",
+          "page": [
+            52
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0052.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0052_b2xdgl"
+          ],
+          "asset_ids": [
+            "55d47c5046f148fd3b5f5fb13f683de9"
+          ],
+          "data": [
+            {
+              "asset_id": "55d47c5046f148fd3b5f5fb13f683de9",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0052_b2xdgl",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0052_b2xdgl",
+              "format": "jpg",
+              "version": 1712706035,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:35+00:00",
+              "uploaded_at": "2024-04-09T23:40:35+00:00",
+              "bytes": 1167631,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706035/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0052_b2xdgl.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706035/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0052_b2xdgl.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "f78d05bb48d13ecc0a925e2207547a59",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 344
+        },
+        {
+          "id_number": 46,
+          "title": "Lời kinh số 46",
+          "page": [
+            53
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0053.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0053_ngkhhg"
+          ],
+          "asset_ids": [
+            "895856d25b97e1cb1364b643c11f2feb"
+          ],
+          "data": [
+            {
+              "asset_id": "895856d25b97e1cb1364b643c11f2feb",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0053_ngkhhg",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0053_ngkhhg",
+              "format": "jpg",
+              "version": 1712706032,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:32+00:00",
+              "uploaded_at": "2024-04-09T23:40:32+00:00",
+              "bytes": 853605,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706032/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0053_ngkhhg.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706032/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0053_ngkhhg.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "de159b39860716c2c7d94989da7f6681",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 345
+        },
+        {
+          "id_number": 47,
+          "title": "Lời kinh số 47",
+          "page": [
+            54
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0054.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0054_ydqkqc"
+          ],
+          "asset_ids": [
+            "2c793716674cd5425511ee5be0a3e383"
+          ],
+          "data": [
+            {
+              "asset_id": "2c793716674cd5425511ee5be0a3e383",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0054_ydqkqc",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0054_ydqkqc",
+              "format": "jpg",
+              "version": 1712706034,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:34+00:00",
+              "uploaded_at": "2024-04-09T23:40:34+00:00",
+              "bytes": 937006,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0054_ydqkqc.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0054_ydqkqc.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "f7332a9b7ebe9c14c02877fc0b79b2db",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 346
+        },
+        {
+          "id_number": 48,
+          "title": "Lời kinh số 48",
+          "page": [
+            55
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0055.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0055_tdufjd"
+          ],
+          "asset_ids": [
+            "2e6678479d1f05d2088e2d8fbcd5a5b4"
+          ],
+          "data": [
+            {
+              "asset_id": "2e6678479d1f05d2088e2d8fbcd5a5b4",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0055_tdufjd",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0055_tdufjd",
+              "format": "jpg",
+              "version": 1712706032,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:32+00:00",
+              "uploaded_at": "2024-04-09T23:40:32+00:00",
+              "bytes": 1022135,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706032/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0055_tdufjd.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706032/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0055_tdufjd.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "dcd0a5bf7978635937c7c40597d96c04",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 347
+        },
+        {
+          "id_number": 49,
+          "title": "Lời kinh số 49",
+          "page": [
+            56
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0056.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0056_y4krfq"
+          ],
+          "asset_ids": [
+            "0383eb4842c88512814ab0f4f53b336f"
+          ],
+          "data": [
+            {
+              "asset_id": "0383eb4842c88512814ab0f4f53b336f",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0056_y4krfq",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0056_y4krfq",
+              "format": "jpg",
+              "version": 1712706036,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:36+00:00",
+              "uploaded_at": "2024-04-09T23:40:36+00:00",
+              "bytes": 1805216,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706036/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0056_y4krfq.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706036/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0056_y4krfq.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "035a407cff824493fc677a909b6f0dda",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 348
+        },
+        {
+          "id_number": 50,
+          "title": "Lời kinh số 50",
+          "page": [
+            57
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0057.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0057_qynkvm"
+          ],
+          "asset_ids": [
+            "dd19deebaf55a9ad33a5e0d00b66ece8"
+          ],
+          "data": [
+            {
+              "asset_id": "dd19deebaf55a9ad33a5e0d00b66ece8",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0057_qynkvm",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0057_qynkvm",
+              "format": "jpg",
+              "version": 1712706038,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:38+00:00",
+              "uploaded_at": "2024-04-09T23:40:38+00:00",
+              "bytes": 1720467,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706038/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0057_qynkvm.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706038/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0057_qynkvm.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "fb0f079838702821cf2b3336fb44e8e2",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 349
+        },
+        {
+          "id_number": 51,
+          "title": "Lời kinh số 51",
+          "page": [
+            58
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0058.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0058_qsk83o"
+          ],
+          "asset_ids": [
+            "5c32cce530baf1a8874b013a1e2b4b43"
+          ],
+          "data": [
+            {
+              "asset_id": "5c32cce530baf1a8874b013a1e2b4b43",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0058_qsk83o",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0058_qsk83o",
+              "format": "jpg",
+              "version": 1712706033,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:33+00:00",
+              "uploaded_at": "2024-04-09T23:40:33+00:00",
+              "bytes": 1105528,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706033/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0058_qsk83o.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706033/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0058_qsk83o.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "14248fa176e784c3a0dfd74e06e82d9f",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 350
+        },
+        {
+          "id_number": 52,
+          "title": "Lời kinh số 52",
+          "page": [
+            59
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0059.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0059_cyyfwv"
+          ],
+          "asset_ids": [
+            "f91ccf02879fa6d140699be3ed295f71"
+          ],
+          "data": [
+            {
+              "asset_id": "f91ccf02879fa6d140699be3ed295f71",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0059_cyyfwv",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0059_cyyfwv",
+              "format": "jpg",
+              "version": 1712706033,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:33+00:00",
+              "uploaded_at": "2024-04-09T23:40:33+00:00",
+              "bytes": 1028374,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706033/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0059_cyyfwv.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706033/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0059_cyyfwv.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "1c1946a6d364f66cdd88c150ef8f5830",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ],
+          "id": 351
+        }
+      ],
+      "public_id": [
+        "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0007_a7sukn"
+      ],
+      "asset_ids": [
+        "795d23abd1e1c457159fdbc85ac2ced1"
+      ],
+      "data": [
+        {
+          "asset_id": "795d23abd1e1c457159fdbc85ac2ced1",
+          "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0007_a7sukn",
+          "folder": "loi-kinh-gia-dinh-2",
+          "filename": "Loi_kinh_bua_an_gia_dinh_page-0007_a7sukn",
+          "format": "jpg",
+          "version": 1712706027,
+          "resource_type": "image",
+          "type": "upload",
+          "created_at": "2024-04-09T23:40:27+00:00",
+          "uploaded_at": "2024-04-09T23:40:27+00:00",
+          "bytes": 702933,
+          "backup_bytes": 0,
+          "width": 1221,
+          "height": 1973,
+          "aspect_ratio": 0.61885,
+          "pixels": 2409033,
+          "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706027/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0007_a7sukn.jpg",
+          "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706027/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0007_a7sukn.jpg",
+          "status": "active",
+          "access_mode": "public",
+          "access_control": null,
+          "etag": "a4e857a381a736dffebed5cd3220d33d",
+          "created_by": {
+            "access_key": "331443986822223"
+          },
+          "uploaded_by": {
+            "access_key": "331443986822223"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Phần II: Các lời kinh dịp đặc biệt",
+      "page": [
+        61
+      ],
+      "url": [
+        "Loi kinh bua an gia dinh_page-0061.jpg"
+      ],
+      "chap": [
+        {
+          "id": 400,
+          "title": "Tất niên - Giao thừa",
+          "page": [
+            62
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0062.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0062_bvnfbz"
+          ],
+          "asset_ids": [
+            "94dcab8cb20981befd1e6a82fa7b66d7"
+          ],
+          "data": [
+            {
+              "asset_id": "94dcab8cb20981befd1e6a82fa7b66d7",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0062_bvnfbz",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0062_bvnfbz",
+              "format": "jpg",
+              "version": 1712706034,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:34+00:00",
+              "uploaded_at": "2024-04-09T23:40:34+00:00",
+              "bytes": 1010436,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0062_bvnfbz.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0062_bvnfbz.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "70a9c01357d64418ff9e9f3ca8cd0a8e",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ]
+        },
+        {
+          "id": 401,
+          "title": "Mồng 1 Tết",
+          "page": [
+            63
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0063.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0063_ra3ovg"
+          ],
+          "asset_ids": [
+            "9ca0c6632a30c8ee3c44b04ba668f6c8"
+          ],
+          "data": [
+            {
+              "asset_id": "9ca0c6632a30c8ee3c44b04ba668f6c8",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0063_ra3ovg",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0063_ra3ovg",
+              "format": "jpg",
+              "version": 1712706035,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:35+00:00",
+              "uploaded_at": "2024-04-09T23:40:35+00:00",
+              "bytes": 1222252,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706035/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0063_ra3ovg.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706035/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0063_ra3ovg.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "1770969a7abbc008c263ce2c9e011a97",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ]
+        },
+        {
+          "id": 402,
+          "title": "Mồng 2 Tết",
+          "page": [
+            64
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0064.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0064_ezivfs"
+          ],
+          "asset_ids": [
+            "52f8dd3551fde1bcf22da13738fa177a"
+          ],
+          "data": [
+            {
+              "asset_id": "52f8dd3551fde1bcf22da13738fa177a",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0064_ezivfs",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0064_ezivfs",
+              "format": "jpg",
+              "version": 1712706035,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:35+00:00",
+              "uploaded_at": "2024-04-09T23:40:35+00:00",
+              "bytes": 1091866,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706035/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0064_ezivfs.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706035/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0064_ezivfs.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "3a5b47006789a6fd7cc2de156d76beed",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ]
+        },
+        {
+          "id": 403,
+          "title": "Mồng 3 Tết",
+          "page": [
+            65
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0065.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0065_xp5tgo"
+          ],
+          "asset_ids": [
+            "66072a7bf7f4156130687398f223c708"
+          ],
+          "data": [
+            {
+              "asset_id": "66072a7bf7f4156130687398f223c708",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0065_xp5tgo",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0065_xp5tgo",
+              "format": "jpg",
+              "version": 1712706035,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:35+00:00",
+              "uploaded_at": "2024-04-09T23:40:35+00:00",
+              "bytes": 984326,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706035/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0065_xp5tgo.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706035/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0065_xp5tgo.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "0325fb42869f5e39c6b88e2281f43088",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ]
+        },
+        {
+          "id": 404,
+          "title": "Giáng Sinh",
+          "page": [
+            66
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0066.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0066_lk2l1z"
+          ],
+          "asset_ids": [
+            "d62ea710be10995d0dd059c2e8ffcd82"
+          ],
+          "data": [
+            {
+              "asset_id": "d62ea710be10995d0dd059c2e8ffcd82",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0066_lk2l1z",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0066_lk2l1z",
+              "format": "jpg",
+              "version": 1712706033,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:33+00:00",
+              "uploaded_at": "2024-04-09T23:40:33+00:00",
+              "bytes": 1010037,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706033/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0066_lk2l1z.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706033/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0066_lk2l1z.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "5a08e9c9adc4a86c072985a51bc96732",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ]
+        },
+        {
+          "id": 405,
+          "title": "Phục Sinh",
+          "page": [
+            67
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0067.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0067_dgahdm"
+          ],
+          "asset_ids": [
+            "1bf195e32892c533391311fcd147395c"
+          ],
+          "data": [
+            {
+              "asset_id": "1bf195e32892c533391311fcd147395c",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0067_dgahdm",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0067_dgahdm",
+              "format": "jpg",
+              "version": 1712706035,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:35+00:00",
+              "uploaded_at": "2024-04-09T23:40:35+00:00",
+              "bytes": 1100195,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706035/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0067_dgahdm.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706035/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0067_dgahdm.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "dfadce26d1320de370089e418faf932e",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ]
+        },
+        {
+          "id": 406,
+          "title": "Rửa tội",
+          "page": [
+            68
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0068.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0068_tll097"
+          ],
+          "asset_ids": [
+            "b9eafc76c459317fd53aa5b73a4f3424"
+          ],
+          "data": [
+            {
+              "asset_id": "b9eafc76c459317fd53aa5b73a4f3424",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0068_tll097",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0068_tll097",
+              "format": "jpg",
+              "version": 1712706035,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:35+00:00",
+              "uploaded_at": "2024-04-09T23:40:35+00:00",
+              "bytes": 1154626,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706035/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0068_tll097.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706035/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0068_tll097.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "850464e1e915ebc5b1d60392157b141d",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ]
+        },
+        {
+          "id": 407,
+          "title": "Rước lễ lần đầu",
+          "page": [
+            69
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0069.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0069_n6tsmk"
+          ],
+          "asset_ids": [
+            "c5feaa5a5e62226f679d49c0d7c7184a"
+          ],
+          "data": [
+            {
+              "asset_id": "c5feaa5a5e62226f679d49c0d7c7184a",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0069_n6tsmk",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0069_n6tsmk",
+              "format": "jpg",
+              "version": 1712706034,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:34+00:00",
+              "uploaded_at": "2024-04-09T23:40:34+00:00",
+              "bytes": 968087,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0069_n6tsmk.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0069_n6tsmk.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "75022ecef1e1dfd82dbcced4dc6fc0f1",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ]
+        },
+        {
+          "id": 408,
+          "title": "Thêm sức",
+          "page": [
+            70
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0070.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0070_pnajkb"
+          ],
+          "asset_ids": [
+            "e704bff763b80871a283509271864c3f"
+          ],
+          "data": [
+            {
+              "asset_id": "e704bff763b80871a283509271864c3f",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0070_pnajkb",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0070_pnajkb",
+              "format": "jpg",
+              "version": 1712706034,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:34+00:00",
+              "uploaded_at": "2024-04-09T23:40:34+00:00",
+              "bytes": 1127670,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0070_pnajkb.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0070_pnajkb.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "9f667e0eadc64a61d40ec888a9ceff1b",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ]
+        },
+        {
+          "id": 409,
+          "title": "Chầu lượt",
+          "page": [
+            71
+          ],
+          "url": [
+            "Loi kinh bua an gia dinh_page-0071.jpg"
+          ],
+          "public_id": [
+            "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0071_pfzfam"
+          ],
+          "asset_ids": [
+            "f6d5c6a7043c8fa0d91ce05ef0942e04"
+          ],
+          "data": [
+            {
+              "asset_id": "f6d5c6a7043c8fa0d91ce05ef0942e04",
+              "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0071_pfzfam",
+              "folder": "loi-kinh-gia-dinh-2",
+              "filename": "Loi_kinh_bua_an_gia_dinh_page-0071_pfzfam",
+              "format": "jpg",
+              "version": 1712706034,
+              "resource_type": "image",
+              "type": "upload",
+              "created_at": "2024-04-09T23:40:34+00:00",
+              "uploaded_at": "2024-04-09T23:40:34+00:00",
+              "bytes": 1200278,
+              "backup_bytes": 0,
+              "width": 1221,
+              "height": 1973,
+              "aspect_ratio": 0.61885,
+              "pixels": 2409033,
+              "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0071_pfzfam.jpg",
+              "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706034/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0071_pfzfam.jpg",
+              "status": "active",
+              "access_mode": "public",
+              "access_control": null,
+              "etag": "a8b4e0326e0566a97fbf71df81cce89e",
+              "created_by": {
+                "access_key": "331443986822223"
+              },
+              "uploaded_by": {
+                "access_key": "331443986822223"
+              }
+            }
+          ]
+        }
+      ],
+      "public_id": [
+        "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0061_a7lund"
+      ],
+      "asset_ids": [
+        "0f3072b7240496ba0df6924e691c5b03"
+      ],
+      "data": [
+        {
+          "asset_id": "0f3072b7240496ba0df6924e691c5b03",
+          "public_id": "loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0061_a7lund",
+          "folder": "loi-kinh-gia-dinh-2",
+          "filename": "Loi_kinh_bua_an_gia_dinh_page-0061_a7lund",
+          "format": "jpg",
+          "version": 1712706028,
+          "resource_type": "image",
+          "type": "upload",
+          "created_at": "2024-04-09T23:40:28+00:00",
+          "uploaded_at": "2024-04-09T23:40:28+00:00",
+          "bytes": 535493,
+          "backup_bytes": 0,
+          "width": 1221,
+          "height": 1973,
+          "aspect_ratio": 0.61885,
+          "pixels": 2409033,
+          "url": "http://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706028/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0061_a7lund.jpg",
+          "secure_url": "https://res.cloudinary.com/dzrvu3h8s/image/upload/v1712706028/loi-kinh-gia-dinh-2/Loi_kinh_bua_an_gia_dinh_page-0061_a7lund.jpg",
+          "status": "active",
+          "access_mode": "public",
+          "access_control": null,
+          "etag": "32ce00b62c0d061e15cf5144cb750672",
+          "created_by": {
+            "access_key": "331443986822223"
+          },
+          "uploaded_by": {
+            "access_key": "331443986822223"
+          }
+        }
+      ]
+    }
+  ]
+}

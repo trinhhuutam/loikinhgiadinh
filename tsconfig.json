@@ -15,6 +15,6 @@
     "isolatedModules": true,
     "jsx": "preserve"
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "utils/siteMetadata.js", "utils/cloudinary-uploader.js", "utils/cloudinary-update-id.js", "utils/cloudinary-getData.js"],
   "exclude": ["node_modules"]
 }
