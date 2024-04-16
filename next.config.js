@@ -1,6 +1,14 @@
 module.exports = {
   output: "export",
   images: {
-    unoptimized: true,
+    formats: ["image/avif", "image/webp"],
+    loader: "cloudinary",
+    path: "",
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "res.cloudinary.com",
+      },
+    ],
   },
 };
